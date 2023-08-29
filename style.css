@@ -203,7 +203,7 @@ body {
 }
 
 .Kterina{
-  width: 80%;
+  width: 75%;
   height: 300px;
   background-image: url(TAPEER/Images/imgonline-com-ua-Resize-p4w5OW226ylrzkTm.jpg);
   margin: auto;
@@ -251,7 +251,7 @@ body {
 
 
 .Mic{
-  width: 80%;
+  width: 75%;
   height: 300px;
   background-image: url(TAPEER/Images/Resize_Mic.jpg);
   margin: auto;
@@ -414,7 +414,7 @@ body {
 
 .Frame_wit_price{
   width: 80%;
-  height: 390px;
+  height: 350px;
   background-image: url(TAPEER/Images/Prices_for_site.jpg);
   margin: auto;
   border-radius: 15px;
@@ -427,7 +427,7 @@ body {
 
 .We_need_masters{
   width: 80%;
-  height: 390px;
+  height: 400px;
   background-image: url(TAPEER/Images/Instagram\ post\ -\ 2.jpg);
 
   margin: auto;
@@ -441,7 +441,7 @@ body {
 
 .We_need_juniors{
   width: 80%;
-  height: 390px;
+  height: 400px;
   background-image: url(TAPEER/Images/Instagram\ post\ -\ 1.jpg);
   margin: auto;
   border-radius: 15px;
@@ -452,23 +452,23 @@ body {
   box-shadow: 0 0px 15px #8c00ff;
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 378px) {
   .We_need_juniors {
     width: 340px;
-    height: 450px;
-    background-size: center;
+    height: 420px;
+    background-size: cover;
   }
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 378px) {
   .We_need_masters {
     width: 340px;
     height: 450px;
-    background-size: center;
+    background-size: cover;
   }
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 378px) {
   .Frame_wit_price {
     width: 340px;
     height: 450px;
